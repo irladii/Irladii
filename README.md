@@ -11,9 +11,3 @@ Hey there! 👋<br><br>I'm Aditya, a computer science student based in India.<br
 ![](https://github-readme-stats.shion.dev/api?username=Irladii&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Irladii&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Irladii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Irladii&icon=0&color=0)](https://visitcount.itsvg.in)
